@@ -25,6 +25,10 @@ npm/yarn install # install react app dependencies
 cd .. # go back to project's root
 ```
 
+## Note for firebase
+
+In order to do use firebase with this project, get the serviceAccountInfo.json file from your firebase project and add it to the directory.
+
 ## Note for stripe payments
 
 In order to do stripe payments, create a account on stripe and copy the api key from there and add it to a .env file like this
@@ -32,6 +36,7 @@ In order to do stripe payments, create a account on stripe and copy the api key 
 ```bash
 STRIPE_SECRET_KEY=yourkey
 ```
+
 
 ## Running NodeJS server
 
