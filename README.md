@@ -1,4 +1,4 @@
-# SkyBeat Clothing - React App w/ Redux, Firebase & Stripe.
+# ETimeTracking Backend - ExpressJS App w/ Firebase & Stripe.
 
 - Its a server for a timetracking web app like Clockify.com and it has Stripe payment implementation with basic NodeJS Express server.
 
