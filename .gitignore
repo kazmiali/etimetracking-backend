@@ -1,0 +1,52 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# vsc workspace file
+skybeat.code-workspace
+
+# dependencies
+node_modules
+/client/node_modules
+/client/.pnp
+/client/.pnp.js
+
+# testing
+/client/coverage
+
+# production
+/client/build
+
+# misc
+/client/.DS_Store
+/client/.env.local
+/client/.env.development.local
+/client/.env.test.local
+/client/.env.production.local
+
+
+
+/.vscode
+
+/client/npm-debug.log*
+/client/yarn-debug.log*
+/client/yarn-error.log*
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+yarn.lock
+/yarn.lock
+
+package-lock.json
+/package-lock.json
+
+.env
+/.env
+
+serviceAccountInfo.json
+/serviceAccountInfo.json
