@@ -45,8 +45,8 @@ yarn.lock
 package-lock.json
 /package-lock.json
 
-.env
-/.env
+# .env
+# /.env
 
-serviceAccountInfo.json
-/serviceAccountInfo.json
+# serviceAccountInfo.json
+# /serviceAccountInfo.json
