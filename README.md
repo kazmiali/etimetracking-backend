@@ -43,3 +43,7 @@ STRIPE_SECRET_KEY=yourkey
 ```bash
 npm/yarn run server
 ```
+
+## Live URL
+
+https://etimetracking-backend.up.railway.app/check
