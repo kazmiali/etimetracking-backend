@@ -41,5 +41,5 @@ STRIPE_SECRET_KEY=yourkey
 ## Running NodeJS server
 
 ```bash
-npm/yarn run start
+npm/yarn run server
 ```
